@@ -38,7 +38,9 @@ body {
 	text-transform: uppercase;
 	font-weight: 200;
 	transition: background .2s linear;
-	background: rgb(255, 196, 0); /* Цвет фона для кнопки + */
+	background: rgb(158, 130, 79); /* Цвет фона для кнопки + */
+	font-size: 2vh;
+	font-weight: bold;
 }
 
 .btn:hover {
